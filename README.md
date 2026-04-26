@@ -10,7 +10,7 @@ cad models and others for the bff project https://roberttwomey.com/bff
 ![Speaker](assets/speaker.jpg)
 
 ### Vinyl Wrap
-![Vinyl Wrap](assets/vinyl-wrap.jpg)
+![Unitree Go2 Vinyl Wrap](assets/go2-vinyl-wrap.jpg)
 
 
 ## STL Files
