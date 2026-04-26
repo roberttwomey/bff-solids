@@ -25,6 +25,11 @@ cad models and others for the bff project https://roberttwomey.com/bff
 ### Rhino Files - Speaker
 - [`speaker.3dm`](speaker/speaker.3dm)
 
+## Aurasound 3 Inch Driver
+![Aurasound 3 Inch Driver](assets/aurasound-ns3-193-8a.jpg)
+
+Datasheet - [assets/aurasound-ns3-193-8a.pdf](assets/aurasound-ns3-193-8a.pdf)
+
 ## 2D Designs
 ### Vinyl Wrap
 ![Unitree Go2 Vinyl Wrap](assets/go2-vinyl-wrap.jpg)
